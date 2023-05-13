@@ -39,7 +39,9 @@ public class Ex2 {
 
 ### Output:
 <img width="143" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-2/assets/93427089/35ff9220-02bd-4913-b6b9-22a1a1fb22e1">
+
 <img width="130" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-2/assets/93427089/2688009f-3108-4239-b38b-f9db29069349">
+
 <img width="122" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-2/assets/93427089/d908f85f-fd9c-4a09-b338-f761e5aca6bf">
 
 ### Result:
