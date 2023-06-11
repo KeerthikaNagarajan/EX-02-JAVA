@@ -1,17 +1,17 @@
-## Ex-2
+## Ex-02:
 ## Java program to compare two numbers
-### Aim:
+### AIM:
 To compare two numbers using java programming language.
 
-### Procedure:
+### ALGORITHM:
 * Import required packages.
 * Declare main method with the signature "public static void main(String[] args)".
 * Get two numbers as input.
 * Compare two numbers using else-if ladder.
 * Dispaly the output accordingly.
 
-### Code:
-```
+### PROGRAM:
+```java
 import java.util.Scanner;
 public class Ex2 {
     public static void main(String[] args)
@@ -37,12 +37,12 @@ public class Ex2 {
 }
 ```
 
-### Output:
+### OUTPUT:
 <img width="143" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-2/assets/93427089/35ff9220-02bd-4913-b6b9-22a1a1fb22e1">
 
 <img width="130" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-2/assets/93427089/2688009f-3108-4239-b38b-f9db29069349">
 
 <img width="122" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-2/assets/93427089/d908f85f-fd9c-4a09-b338-f761e5aca6bf">
 
-### Result:
+### RESULT:
 To compare two numbers using java programming language was successfully done.
